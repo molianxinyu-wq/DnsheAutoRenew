@@ -50,7 +50,7 @@
 ### 3.2 新建Worker项目
 1. 登录Cloudflare Dashboard，进入左侧**Workers & Pages**
 2. 点击右上角**创建应用程序 → 创建Worker**
-3. 自定义Worker名称（如：dnshe-renew），点击**部署**
+3. 自定义Worker名称（如：dnshe-renew），点击**部署**（同步修改wrangler.toml里name的值）
 4. 进入Worker编辑页面，删除默认示例代码，复制本项目完整代码粘贴进去
 5. 点击右上角**保存并部署**，完成Worker基础创建
 
