@@ -1,4 +1,4 @@
-name = "dnshe-new"
+name = "dnshe-new" #需要改成worker的名字，否则报错
 main = "src/worker.js"
 compatibility_date = "2026-01-01"
 
